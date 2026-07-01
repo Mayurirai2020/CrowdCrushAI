@@ -1,0 +1,16 @@
+[
+  {
+    "time_sec": 0.58,
+    "frame": 14,
+    "zone": [
+      5,
+      1
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.48,
+    "flow_conflict": false,
+    "stagnant": true,
+    "rapid_fill": false
+  }
+]

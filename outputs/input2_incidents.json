@@ -1,0 +1,1136 @@
+[
+  {
+    "time_sec": 7.13,
+    "frame": 171,
+    "zone": [
+      3,
+      5
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.25,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 7.13,
+    "frame": 171,
+    "zone": [
+      4,
+      5
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.59,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 7.3,
+    "frame": 175,
+    "zone": [
+      2,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.76,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 7.34,
+    "frame": 176,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 8.13,
+    "frame": 195,
+    "zone": [
+      2,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 8.13,
+    "frame": 195,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 8.22,
+    "frame": 197,
+    "zone": [
+      2,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 10.3,
+    "frame": 247,
+    "zone": [
+      2,
+      2
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.84,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 10.8,
+    "frame": 259,
+    "zone": [
+      2,
+      4
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.16,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 11.47,
+    "frame": 275,
+    "zone": [
+      2,
+      4
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.22,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 12.05,
+    "frame": 289,
+    "zone": [
+      2,
+      1
+    ],
+    "status": "DANGER",
+    "people": 3,
+    "density": 9.74,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 12.22,
+    "frame": 293,
+    "zone": [
+      2,
+      4
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 8.0,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 12.39,
+    "frame": 297,
+    "zone": [
+      2,
+      5
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 5.67,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 12.6,
+    "frame": 302,
+    "zone": [
+      2,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.25,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 13.01,
+    "frame": 312,
+    "zone": [
+      2,
+      1
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.52,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 13.22,
+    "frame": 317,
+    "zone": [
+      2,
+      4
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.84,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 13.76,
+    "frame": 330,
+    "zone": [
+      2,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.25,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 13.76,
+    "frame": 330,
+    "zone": [
+      2,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 13.97,
+    "frame": 335,
+    "zone": [
+      2,
+      1
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.29,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 14.22,
+    "frame": 341,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 14.39,
+    "frame": 345,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.8,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 14.76,
+    "frame": 354,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.28,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 15.06,
+    "frame": 361,
+    "zone": [
+      2,
+      1
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.17,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 15.56,
+    "frame": 373,
+    "zone": [
+      3,
+      0
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.72,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 15.64,
+    "frame": 375,
+    "zone": [
+      2,
+      2
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.5,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 15.72,
+    "frame": 377,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.51,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 15.85,
+    "frame": 380,
+    "zone": [
+      3,
+      4
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.25,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 15.89,
+    "frame": 381,
+    "zone": [
+      3,
+      0
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.56,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 16.47,
+    "frame": 395,
+    "zone": [
+      2,
+      4
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.7,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 16.81,
+    "frame": 403,
+    "zone": [
+      3,
+      1
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 4.7,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 16.81,
+    "frame": 403,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.25,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 17.43,
+    "frame": 418,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.16,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 17.81,
+    "frame": 427,
+    "zone": [
+      2,
+      2
+    ],
+    "status": "DANGER",
+    "people": 3,
+    "density": 9.63,
+    "flow_conflict": false,
+    "stagnant": true,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 18.69,
+    "frame": 448,
+    "zone": [
+      2,
+      2
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.22,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 18.85,
+    "frame": 452,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.48,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 19.48,
+    "frame": 467,
+    "zone": [
+      3,
+      1
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.16,
+    "flow_conflict": false,
+    "stagnant": true,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 19.64,
+    "frame": 471,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.8,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 19.98,
+    "frame": 479,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.76,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 20.02,
+    "frame": 480,
+    "zone": [
+      2,
+      5
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 20.1,
+    "frame": 482,
+    "zone": [
+      2,
+      4
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.62,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 20.44,
+    "frame": 490,
+    "zone": [
+      2,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 20.44,
+    "frame": 490,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 20.77,
+    "frame": 498,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 3,
+    "density": 10.14,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 21.23,
+    "frame": 509,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 4.15,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 21.23,
+    "frame": 509,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 4.26,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 21.52,
+    "frame": 516,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.18,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 21.52,
+    "frame": 516,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.94,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 22.48,
+    "frame": 539,
+    "zone": [
+      3,
+      1
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.16,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 22.52,
+    "frame": 540,
+    "zone": [
+      2,
+      3
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.01,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 22.81,
+    "frame": 547,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.94,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 22.98,
+    "frame": 551,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.92,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 23.36,
+    "frame": 560,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.92,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 23.36,
+    "frame": 560,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.92,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 23.44,
+    "frame": 562,
+    "zone": [
+      2,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.92,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 24.02,
+    "frame": 576,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.92,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 24.02,
+    "frame": 576,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.92,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 24.11,
+    "frame": 578,
+    "zone": [
+      2,
+      5
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 24.4,
+    "frame": 585,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.92,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 24.52,
+    "frame": 588,
+    "zone": [
+      3,
+      5
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.48,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 24.69,
+    "frame": 592,
+    "zone": [
+      2,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 4.13,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 24.86,
+    "frame": 596,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.88,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 24.98,
+    "frame": 599,
+    "zone": [
+      3,
+      1
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.54,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 25.48,
+    "frame": 611,
+    "zone": [
+      3,
+      1
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.48,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 25.65,
+    "frame": 615,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "CRITICAL",
+    "people": 2,
+    "density": 6.42,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 25.82,
+    "frame": 619,
+    "zone": [
+      3,
+      1
+    ],
+    "status": "CRITICAL",
+    "people": 3,
+    "density": 8.78,
+    "flow_conflict": false,
+    "stagnant": true,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 26.4,
+    "frame": 633,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.92,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 26.44,
+    "frame": 634,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 26.69,
+    "frame": 640,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 26.99,
+    "frame": 647,
+    "zone": [
+      2,
+      5
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.9,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 27.24,
+    "frame": 653,
+    "zone": [
+      3,
+      1
+    ],
+    "status": "DANGER",
+    "people": 3,
+    "density": 10.03,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 27.44,
+    "frame": 658,
+    "zone": [
+      2,
+      4
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.37,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 27.9,
+    "frame": 669,
+    "zone": [
+      3,
+      1
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 8.02,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 28.36,
+    "frame": 680,
+    "zone": [
+      3,
+      5
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.04,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 28.65,
+    "frame": 687,
+    "zone": [
+      3,
+      4
+    ],
+    "status": "CRITICAL",
+    "people": 2,
+    "density": 5.06,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 28.9,
+    "frame": 693,
+    "zone": [
+      2,
+      4
+    ],
+    "status": "CRITICAL",
+    "people": 2,
+    "density": 5.91,
+    "flow_conflict": false,
+    "stagnant": true,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 29.36,
+    "frame": 704,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.93,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 29.36,
+    "frame": 704,
+    "zone": [
+      3,
+      3
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 3.89,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 29.65,
+    "frame": 711,
+    "zone": [
+      3,
+      2
+    ],
+    "status": "DANGER",
+    "people": 1,
+    "density": 4.6,
+    "flow_conflict": true,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 29.74,
+    "frame": 713,
+    "zone": [
+      2,
+      2
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.22,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 30.03,
+    "frame": 720,
+    "zone": [
+      3,
+      1
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 6.9,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  },
+  {
+    "time_sec": 30.2,
+    "frame": 724,
+    "zone": [
+      2,
+      2
+    ],
+    "status": "DANGER",
+    "people": 2,
+    "density": 7.45,
+    "flow_conflict": false,
+    "stagnant": false,
+    "rapid_fill": false
+  }
+]
